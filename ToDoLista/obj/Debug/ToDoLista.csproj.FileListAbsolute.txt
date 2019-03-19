@@ -1,0 +1,217 @@
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\ApplicationInsights.config
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\ToDoLista.dll.config
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\ToDoLista.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\ToDoLista.pdb
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\csc.exe
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\csc.exe.config
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\csc.rsp
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\csi.exe
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\csi.exe.config
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\csi.rsp
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.AppContext.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Console.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\vbc.exe
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\vbc.exe.config
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\vbc.rsp
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Antlr3.Runtime.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\EntityFramework.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\EntityFramework.SqlServer.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.Web.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Newtonsoft.Json.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Helpers.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Mvc.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Optimization.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Razor.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.WebPages.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\WebGrease.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\EntityFramework.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Helpers.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Mvc.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Optimization.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.Razor.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.WebPages.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Newtonsoft.Json.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Antlr3.Runtime.pdb
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.AI.Web.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\obj\Debug\ToDoLista.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\obj\Debug\ToDoLista.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\obj\Debug\ToDoLista.csproj.CopyComplete
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\obj\Debug\ToDoLista.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\obj\Debug\ToDoLista.pdb
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\FoolproofValidation.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\PagedList.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\PagedList.Mvc.dll
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\PagedList.xml
+C:\Users\Rafał\Desktop\ToDoLista\ToDoLista\bin\PagedList.Mvc.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\ApplicationInsights.config
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\ToDoLista.dll.config
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\ToDoLista.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\ToDoLista.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\csc.exe
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\csc.exe.config
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\csc.rsp
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\csi.exe
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\csi.exe.config
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\csi.rsp
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.AppContext.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Console.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\vbc.exe
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\vbc.exe.config
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\vbc.rsp
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Antlr3.Runtime.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\CommonServiceLocator.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\EntityFramework.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\EntityFramework.SqlServer.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\FoolproofValidation.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.Web.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Newtonsoft.Json.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\PagedList.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\PagedList.Mvc.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Helpers.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Mvc.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Optimization.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Razor.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.WebPages.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Abstractions.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Configuration.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Container.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Interception.Configuration.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Interception.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Mvc5.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.RegistrationByConvention.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.ServiceLocation.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\WebGrease.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\CommonServiceLocator.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\EntityFramework.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\PagedList.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\PagedList.Mvc.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Helpers.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Mvc.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Optimization.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.Razor.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.WebPages.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Newtonsoft.Json.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Abstractions.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Configuration.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Container.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Interception.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.Interception.Configuration.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Unity.ServiceLocation.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Antlr3.Runtime.pdb
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.AI.Web.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\obj\Debug\ToDoLista.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\obj\Debug\ToDoLista.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\obj\Debug\ToDoLista.csproj.CopyComplete
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\obj\Debug\ToDoLista.dll
+C:\Users\Rafał\Desktop\ToDoLista — kopia\ToDoLista\obj\Debug\ToDoLista.pdb

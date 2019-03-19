@@ -1,0 +1,90 @@
+﻿@model PagedList.IPagedList<ToDoLista.Areas.Zadania.Models.Task>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>To Do - Lista zadań</h3>
+
+<p>
+    @Html.ActionLink("Widok lista", "Index", null, new { @class = "btn btn-default" })
+</p>
+@using (Html.BeginForm())
+{
+    <p>
+        @Html.TextBox("searchString", ViewBag.CurrentFilter as string, new { @placeholder = "Czynność" })
+
+
+        <input type="submit" value="Szukaj" />
+    </p>
+}
+
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-3 ">
+            <div class="col-sm-12 well">
+                <div class="row">
+                    <div class="col-sm-4 label label-primary">
+                        Priorytet @Html.DisplayFor(modelItem => item.Priority)
+                    </div>
+                    <div class="col-sm-4"></div>
+                    <div class="col-sm-4 label label-warning">
+                        Status @Html.DisplayFor(modelItem => item.Status)
+                    </div>
+                </div>
+                <br />
+                <p class="text-center" style="font-weight:bold;">
+                    @Html.DisplayFor(modelItem => item.Action)
+                </p>
+
+                <p class="text-center" style="font-weight:bold;">
+                    @Html.DisplayFor(modelItem => item.Topic)
+                </p>
+
+                <p class="text-center">
+                    Od @Html.DisplayFor(modelItem => item.Start)
+
+                    Do @Html.DisplayFor(modelItem => item.End)
+
+
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow=@Html.DisplayFor(modelItem => item.Progress)
+                             aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: @Html.DisplayFor(modelItem => item.Progress)% ">
+                            @Html.DisplayFor(modelItem => item.Progress)%
+                        </div>
+                    </div>
+
+                <p class="text-center">
+                    @Html.ActionLink("Podgląd", "Details", new { id = item.TaskID }, new {@class="btn btn-default"})
+                </p>
+
+            </div>
+        </div>
+    }
+</div>
+
+<br />
+    
+    @using (Html.BeginForm())
+    {
+        <p align="right">
+            Elementów na stronie
+            <select class="form-control" id="pageSizeParm" name="pageSizeParm">
+                <option>2</option>
+                <option>5</option>
+                <option>10</option>
+            </select>
+
+            <input type="submit" value="OK" />
+
+        </p>
+    }
+    <div class="text-center">
+        @Html.PagedListPager(Model, page => Url.Action("Index",
+            new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize, tiles = true }))
+    </div>

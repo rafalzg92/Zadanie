@@ -1,0 +1,116 @@
+﻿@model PagedList.IPagedList<ToDoLista.Areas.Zadania.Models.Task>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>To Do - Lista zadań</h3>
+
+<p>
+    @Html.ActionLink("Dodaj", "Create", null, new { @class = "btn btn-success" })
+    <br />
+    <br />
+    @Html.ActionLink("Widok kafelkowy", "Index", new { tiles = true, sortOrder = "priority" }, new { @class = "btn btn-default" })
+</p>
+@using (Html.BeginForm())
+{
+    <p>
+        @Html.TextBox("searchString", ViewBag.CurrentFilter as string, new { @placeholder = "Czynność" })
+
+        <input type="submit" value="Szukaj" />
+    </p>
+}
+
+@using (Html.BeginForm("Edit", "Zadanie", FormMethod.Get))
+{
+
+    <input type="submit" value="Edytuj" />
+    <div class="text-danger">
+        @ViewBag.MessageForEdit
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.ActionLink("Czynność", "Index", new { sortOrder = "action", currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize })
+            </th>
+            <th>
+                @Html.ActionLink("Temat", "Index", new { sortOrder = "topic", currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize })
+            </th>
+            <th>
+                @Html.ActionLink("Data rozpoczęcia", "Index", new { sortOrder = "start", currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize })
+            </th>
+            <th>
+                @Html.ActionLink("Data zakończenia", "Index", new { sortOrder = "end", currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize })
+            </th>
+            <th>
+                @Html.ActionLink("Status", "Index", new { sortOrder = "status", currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize })
+            </th>
+            <th>
+                @Html.ActionLink("Priorytet", "Index", new { sortOrder = "priority", currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize })
+            </th>
+            <th>
+                @Html.ActionLink("% zakończenia", "Index", new { sortOrder = "progress", currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize })
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Action)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Topic)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Start)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.End)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Priority)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Progress)
+                </td>
+                
+                <td>
+                    <input id="id" name="id" type="checkbox" value=@item.TaskID /> 
+                    @Html.ActionLink("Edytuj", "Edit", new { id = item.TaskID }, new { @class = "btn btn-default btn-xs" }) 
+                    @Html.ActionLink("Szczegóły", "Details", new { id = item.TaskID }, new { @class = "btn btn-default btn-xs" }) 
+                    @Html.ActionLink("x", "Delete", new { id = item.TaskID }, new { @class = "btn btn-danger btn-xs" })
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+<br />
+    
+
+    @using (Html.BeginForm())
+    {
+        <p align="right">
+            Elementów na stronie
+            <select class="form-control" id="pageSizeParm" name="pageSizeParm">
+                <option>2</option>
+                <option>5</option>
+                <option>10</option>
+            </select>
+
+            <input type="submit" value="OK" />
+
+        </p>
+    }
+    <div class="text-center">
+        @Html.PagedListPager(Model, page => Url.Action("Index",
+            new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, currentPageSize = ViewBag.CurrentPageSize }))
+    </div>
